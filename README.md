@@ -8,6 +8,11 @@ http://www.sparkfun.com/datasheets/Sensors/Infrared/tsop382.pdf
 And the IR Remote Library
 https://github.com/shirriff/Arduino-IRremote/
 
+RAW IR Codes captured using
+https://www.analysir.com/blog/2014/03/19/air-conditioners-problems-recording-long-infrared-remote-control-signals-arduino/
+https://www.analysir.com/blog/wp-content/uploads/2014/03/Arduino_Record_Long_AirConditioner_Infrared_Signals_10.txt
+
+
 Extracted Codes
 
 | Remote Control Function  | IR CODE | RAW IR 1 | RAW IR 2 | RAW IR 3 | RAW IR 4 | 

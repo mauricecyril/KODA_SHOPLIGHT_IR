@@ -5,7 +5,17 @@ For use in Arduino based IR Automation.
 Derived using IR Receiver Diode - TSOP38238 https://learn.sparkfun.com/tutorials/ir-control-kit-hookup-guide
 http://www.sparkfun.com/datasheets/Sensors/Infrared/tsop382.pdf
 
-And the IR Remote Library
+And Raspberry Pi with LIRC:
+https://shallowsky.com/blog/hardware/raspberry-pi-ir-remote.html
+https://osoyoo.com/2016/12/15/raspberrypi-ir-remote/
+http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/
+
+
+------------------------------
+
+# Legacy [Did not work]
+
+Using the IR Remote Library
 https://github.com/shirriff/Arduino-IRremote/
 
 RAW IR Codes captured using

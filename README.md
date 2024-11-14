@@ -7,8 +7,11 @@ http://www.sparkfun.com/datasheets/Sensors/Infrared/tsop382.pdf
 
 And Raspberry Pi with LIRC:
 https://shallowsky.com/blog/hardware/raspberry-pi-ir-remote.html
+
 https://osoyoo.com/2016/12/15/raspberrypi-ir-remote/
+
 http://alexba.in/blog/2013/01/06/setting-up-lirc-on-the-raspberrypi/
+
 
 
 ------------------------------
